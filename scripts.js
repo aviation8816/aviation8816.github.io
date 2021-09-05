@@ -1,6 +1,6 @@
 "use strict";
 
-alert ("ur is momomomomomomom");
+alert ("/testing test");
 
 let test = "verifuied";
 alert (test);
